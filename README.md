@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/burntcow/frontend-test-kyle/badge.svg)](https://coveralls.io/github/burntcow/frontend-test-kyle)
+
 ## Introduction
 
 In order to successfully complete this exam, you will need to have node v4 or greater installed on your machine.
