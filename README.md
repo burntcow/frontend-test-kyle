@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/burntcow/frontend-test-kyle/badge.svg)](https://coveralls.io/github/burntcow/frontend-test-kyle)
+[![codecov](https://codecov.io/gh/burntcow/frontend-test-kyle/branch/master/graph/badge.svg)](https://codecov.io/gh/burntcow/frontend-test-kyle)
 
 ## Introduction
 
