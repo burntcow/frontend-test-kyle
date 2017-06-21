@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
-    "test": "jest && codecov"
+    "test": "jest"
   },
   "author": "John Deere",
   "license": "Copyright © 2017 Deere & Company",
