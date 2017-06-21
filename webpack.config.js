@@ -9,7 +9,7 @@ var webpack = require('webpack'),
             './index.js'
         ],
         output: {
-            path: __dirname + '/dist',
+            path: __dirname,
             filename: 'app.js'
         },
         module: {
