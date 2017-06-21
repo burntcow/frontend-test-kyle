@@ -8,3 +8,5 @@ output
 dist
 coverage
 *.swp
+app.js
+app.map.js
