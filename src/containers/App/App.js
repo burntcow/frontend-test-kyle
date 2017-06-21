@@ -15,8 +15,7 @@ class App extends Component {
             .then(res => {
                 this.setState({ pizzas: res.pizzas.sort((a, b) => a > b) });
             })
-            .catch(error => console.error(error))
-            ;
+            .catch(error => console.error(error));
     }
 
     render() {
