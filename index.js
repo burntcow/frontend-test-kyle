@@ -1,5 +1,3 @@
-import fetch from 'isomorphic-fetch';
-
 import React from 'react';
 import { render } from 'react-dom';
 import { App } from 'containers';
