@@ -18,7 +18,7 @@ This is my ([Kyle Robinson](https://github.com/ksr583)) solution for a Frontend 
     * Added the classnames package for convenient CSS class operations.
 * Due to some issues with `isomorphic-fetch` and the ability to mock it in the context of Enzyme/Jest, the test coverage remains at 95%. From what I can gather, that package is slightly outdated (there are 10 open PRs and the master branch hasn't been updated in over a year) and many people are moving to other packages that are better maintained.
 * I didn't include any linting or other means of enforcing code styling in case reviewers preferred that the styling remain in keeping with the provided `.editorconfig`
-* In a real application, more of the app could/would be broken into smaller React components (Section, SectionControls, Header, Input, Label, ListItem).
+* In a real application, more of the app could/would be broken into smaller React components (e.g. Section, SectionControls, Header, Input, Label, ListItem).
 * While I made some effort to write the components such that they would be reusable outside of the context of listing pizzas, in a real application I would ensure that be the case.
 * The use of the `variants` prop to pass in style variants that are appended to base classes is something I've been experimenting with in my effort to find good solutions for working with traditional design systems / component libraries.
 
