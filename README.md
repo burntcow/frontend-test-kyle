@@ -22,7 +22,7 @@ This is my ([Kyle Robinson](https://github.com/ksr583)) solution for a Frontend 
 
 ---
 
-## Introduction
+## <a name="Introduction" />Introduction
 
 In order to successfully complete this exam, you will need to have node v4 or greater installed on your machine.
 
