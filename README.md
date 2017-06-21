@@ -5,7 +5,7 @@
 
 ## Implementation Notes
 
-This is my ([Kyle Robinson](https://github.com/ksr583)) solution for a Frontend Development Test/Challenge provided by a potential partner agency / client. The original [instructions](#Introduction) are preserved below, but here are some notes on my implementation:
+This is my ([Kyle Robinson](https://github.com/ksr583)) solution for a Frontend Development Test/Challenge provided by a potential partner agency / client. The original [instructions](#introduction) are preserved below, but here are some notes on my implementation:
 
 * Used Yarn for package installation and running npm commands.
 * Switched from Mocha to Jest for testing (involved several dependency/package/version additions/adjustments)
@@ -22,7 +22,7 @@ This is my ([Kyle Robinson](https://github.com/ksr583)) solution for a Frontend 
 
 ---
 
-## <a name="Introduction" />Introduction
+## Introduction
 
 In order to successfully complete this exam, you will need to have node v4 or greater installed on your machine.
 
