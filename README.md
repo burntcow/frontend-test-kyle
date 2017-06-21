@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/burntcow/frontend-test-kyle.svg?branch=master)](https://travis-ci.org/burntcow/frontend-test-kyle)
 [![codecov](https://codecov.io/gh/burntcow/frontend-test-kyle/branch/master/graph/badge.svg)](https://codecov.io/gh/burntcow/frontend-test-kyle)
 
 ## Introduction
