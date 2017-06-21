@@ -7,11 +7,13 @@
 > My experience with NodeJS is mostly confined to its use for local development, through npm, yarn, and other such tools.
 
 #### 3. What front-end build scripts/tools/Languages do you have experience with?
-> Languages: HTML, CSS, JavaScript, SVG, PHP
-> Extensions: Sass (SCSS), LESS, PostCSS, Autoprefixer, Jade/Pug, Nunjucks, Mustache
-> Component Library Tools: Fractal, Fabricator, and other static site generators
-> Third-Party Apps/Tools: ImageOptim (and other image optimization tools), Codekit, Xenu/Integrity, Browserstack, PhantomJS, Lighthouse (and other performance tools), and many more
-> Build Tools & Package Managers: Gulp, Grunt, npm, yarn, Bower, Webpack, Browserify, Composer
+| Category      | Values/Examples                        |
+| ------------- | ---------------------------------------|
+| Languages | HTML, CSS, JavaScript, SVG, PHP |
+| Extensions | Sass (SCSS), LESS, PostCSS, Autoprefixer, Jade/Pug, Nunjucks, Mustache |
+| Apps/Tools | ImageOptim (and other image optimization tools), Codekit, Xenu/Integrity, Browserstack, PhantomJS, Lighthouse (and other performance tools), Component Library Tools (Fractal, Fabricator, SSGs) |
+| Build & Package Managers | Gulp, Grunt, npm, yarn, Bower, Webpack, Browserify, Composer |
+
 > Whenever something new or noteworthy comes along, I usually check it out and try it on at least a test project.
 
 #### 4. How often do you use code from stack overflow?
