@@ -36,6 +36,12 @@ describe('InputGroup Component', () => {
         expect(label.text()).toBe('Label Text');
     });
 
+    it('should accept variants and assign variant classes', () => {
+        const wrapper = mountInputGroup();
+        expect(wrapper.hasClass('input-group--variant')).toBe(true);
+        expect(wrapper.is('.input-group.input-group--variant')).toBe(true);
+    });
+
 });
 
 
@@ -48,6 +54,7 @@ function mountInputGroup(onChange) {
             onChange={onChange}
             label="Label Text"
             showLabel={true}
+            variants={['variant']}
         />
     );
 }

@@ -68,11 +68,13 @@ describe('FilterableList View', () => {
         const button = wrapper.find('button');
 
         input.simulate('change', { target: { value: 'Chee' } });
+        expect(wrapper.state('search')).toBe('Chee');
         expect(list.children()).toHaveLength(2);
         expect(list.childAt(0).text()).toBe('3 cheeSe');
         expect(list.childAt(1).text()).toBe('Cheese');
 
         button.simulate('click');
+        expect(wrapper.state('search')).toBe('Chee');
         expect(list.children()).toHaveLength(2);
         expect(list.childAt(0).text()).toBe('Cheese');
         expect(list.childAt(1).text()).toBe('3 cheeSe');
