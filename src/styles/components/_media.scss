@@ -1,0 +1,26 @@
+.media {
+    display: flex;
+    flex: 1 1 0%;
+
+    &--center {
+        align-items: center;
+    }
+
+}
+
+.media__figure {
+    flex-shrink: 0;
+    margin-right: 1em;
+
+    &--reverse {
+        margin-right: 0;
+        margin-left: 1em;
+    }
+
+    img, svg {
+        width: 100%;
+        height: auto;
+    }
+}
+
+.media__body {}
