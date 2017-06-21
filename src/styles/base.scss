@@ -8,14 +8,13 @@
   line-height: 1.5;
   --space-1: .5rem;
 
-  * {
-      box-sizing: border-box;
-  }
+  * { box-sizing: border-box; }
 }
 
 body {
     background: #f7f7f7;
 }
+
 
 h1, h2, h3, h4, h5 {
     margin-top: 0;
@@ -26,17 +25,20 @@ h1, h2, h3, h4, h5 {
     }
 }
 
+// TODO: Make into a component
 .container {
     position: relative;
     width: 360px;
     margin: 0 auto;
 }
 
+// TODO: Make into a component
 .header {
     position: relative;
     margin-bottom: 1rem;
 }
 
+// TODO: Make into a component
 .section-controls {
     margin-bottom: 1rem;
 }
