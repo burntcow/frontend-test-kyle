@@ -9,4 +9,4 @@ dist
 coverage
 *.swp
 app.js
-app.map.js
+app.js.map

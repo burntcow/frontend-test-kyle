@@ -7,8 +7,8 @@
     "start": "webpack-dev-server",
     "test": "jest"
   },
-  "author": "John Deere",
-  "license": "Copyright © 2017 Deere & Company",
+  "author": "Kyle Robinson",
+  "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.5",
     "isomorphic-fetch": "^2.2.1",
